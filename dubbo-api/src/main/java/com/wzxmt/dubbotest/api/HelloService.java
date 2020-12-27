@@ -1,4 +1,4 @@
-package com.od.dubbotest.api;
+package com.wzxmt.dubbotest.api;
 
 
 public interface HelloService {
